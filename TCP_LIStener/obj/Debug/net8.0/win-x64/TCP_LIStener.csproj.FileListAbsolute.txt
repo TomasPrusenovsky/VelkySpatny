@@ -1,0 +1,14 @@
+C:\Dev\C#\TCP_LIStener\bin\Debug\net8.0\win-x64\TCP_LIStener.exe
+C:\Dev\C#\TCP_LIStener\bin\Debug\net8.0\win-x64\TCP_LIStener.deps.json
+C:\Dev\C#\TCP_LIStener\bin\Debug\net8.0\win-x64\TCP_LIStener.runtimeconfig.json
+C:\Dev\C#\TCP_LIStener\bin\Debug\net8.0\win-x64\TCP_LIStener.dll
+C:\Dev\C#\TCP_LIStener\bin\Debug\net8.0\win-x64\TCP_LIStener.pdb
+C:\Dev\C#\TCP_LIStener\obj\Debug\net8.0\win-x64\TCP_LIStener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\TCP_LIStener\obj\Debug\net8.0\win-x64\TCP_LIStener.AssemblyInfoInputs.cache
+C:\Dev\C#\TCP_LIStener\obj\Debug\net8.0\win-x64\TCP_LIStener.AssemblyInfo.cs
+C:\Dev\C#\TCP_LIStener\obj\Debug\net8.0\win-x64\TCP_LIStener.csproj.CoreCompileInputs.cache
+C:\Dev\C#\TCP_LIStener\obj\Debug\net8.0\win-x64\TCP_LIStener.dll
+C:\Dev\C#\TCP_LIStener\obj\Debug\net8.0\win-x64\refint\TCP_LIStener.dll
+C:\Dev\C#\TCP_LIStener\obj\Debug\net8.0\win-x64\TCP_LIStener.pdb
+C:\Dev\C#\TCP_LIStener\obj\Debug\net8.0\win-x64\TCP_LIStener.genruntimeconfig.cache
+C:\Dev\C#\TCP_LIStener\obj\Debug\net8.0\win-x64\ref\TCP_LIStener.dll

@@ -1,0 +1,16 @@
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\Dankord.Dankord.resources
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\Dankord.csproj.GenerateResource.cache
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\Dankord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\Dankord.AssemblyInfoInputs.cache
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\Dankord.AssemblyInfo.cs
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\Dankord.csproj.CoreCompileInputs.cache
+C:\Dev\C#\Dankord\bin\Debug\net8.0-windows\Dankord.exe
+C:\Dev\C#\Dankord\bin\Debug\net8.0-windows\Dankord.deps.json
+C:\Dev\C#\Dankord\bin\Debug\net8.0-windows\Dankord.runtimeconfig.json
+C:\Dev\C#\Dankord\bin\Debug\net8.0-windows\Dankord.dll
+C:\Dev\C#\Dankord\bin\Debug\net8.0-windows\Dankord.pdb
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\Dankord.dll
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\refint\Dankord.dll
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\Dankord.pdb
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\Dankord.genruntimeconfig.cache
+C:\Dev\C#\Dankord\obj\Debug\net8.0-windows\ref\Dankord.dll

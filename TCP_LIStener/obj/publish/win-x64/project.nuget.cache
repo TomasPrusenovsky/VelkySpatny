@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2LHc3vfjFW4a4BAb6oSO18fiHVf1uMR8WquB3ZmXb+Mqnu6z3P+tdn4pnauCiX8W5v8WkW7x1jAXUrlDCDSdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\C#\\TCP_LIStener\\TCP_LIStener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

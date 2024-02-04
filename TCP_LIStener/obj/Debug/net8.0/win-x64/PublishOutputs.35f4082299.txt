@@ -1,0 +1,2 @@
+C:\Dev\C#\TCP_LIStener\bin\Debug\net8.0\publish\win-x64\TCP_LIStener.pdb
+C:\Dev\C#\TCP_LIStener\bin\Debug\net8.0\publish\win-x64\TCP_LIStener.exe

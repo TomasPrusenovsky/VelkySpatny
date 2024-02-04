@@ -1,0 +1,16 @@
+C:\Dev\C#\Server_Chat\bin\Debug\net8.0-windows\Server_Chat.exe
+C:\Dev\C#\Server_Chat\bin\Debug\net8.0-windows\Server_Chat.deps.json
+C:\Dev\C#\Server_Chat\bin\Debug\net8.0-windows\Server_Chat.runtimeconfig.json
+C:\Dev\C#\Server_Chat\bin\Debug\net8.0-windows\Server_Chat.dll
+C:\Dev\C#\Server_Chat\bin\Debug\net8.0-windows\Server_Chat.pdb
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\Server_Chat.Form1.resources
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\Server_Chat.csproj.GenerateResource.cache
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\Server_Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\Server_Chat.AssemblyInfoInputs.cache
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\Server_Chat.AssemblyInfo.cs
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\Server_Chat.csproj.CoreCompileInputs.cache
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\Server_Chat.dll
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\refint\Server_Chat.dll
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\Server_Chat.pdb
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\Server_Chat.genruntimeconfig.cache
+C:\Dev\C#\Server_Chat\obj\Debug\net8.0-windows\ref\Server_Chat.dll
